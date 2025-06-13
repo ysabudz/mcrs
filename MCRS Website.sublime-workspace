@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"facult",
+				"facultyLabelElement"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"L",
+				"Laboratory"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"gray",
+				"darkgray"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"whit",
+				"whitesmoke"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"light",
+				"lightblue"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"profile",
+				"profile-container"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"searc",
+				"search-bar"
+			],
+			[
+				"grey",
+				"lightgrey"
+			],
+			[
+				"re",
+				"reservation-box"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-justify"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"del",
+				"transition-delay"
+			],
+			[
+				"blue",
+				"deepskyblue"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"magrin",
+				"margin-right"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"ligh",
+				"lightskyblue"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-justify"
+			],
+			[
+				"aling",
+				"align-content"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"update",
+				"updateMonth"
+			],
+			[
+				"w",
+				"whiteinfobox"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"RESERVATION_AO_",
+				"RESERVATION_AO_APPROVAL"
+			],
+			[
+				"RES",
+				"RESERVATION_RESERVE"
+			],
+			[
+				"hit",
+				"whitesmoke"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MCHS_III_GROUP 2_AO RESERVATION_RESERVE A ROOM.php",
+			"settings":
+			{
+				"buffer_size": 34400,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAK92AAAAAAAAsHYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvdgAAAAAAAK92AAAAAAAAAAAAAADAaUA"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK92AAAAAAAAr3YAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACwdgAAAAAAALB2AAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mrs-iii"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_ACKNOWLEDGEMENT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_AO_APPROVAL.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_CALENDAR.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_MY ACCOUNT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_LOG OUT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_AO_APPROVAL_DETAILS.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CALENDAR.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_SETTER.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_AO_APPROVAL_DETAILS1.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_AO_CALENDAR.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CALENDAR.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_MY ACCOUNT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_MY ACCOUNT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS6.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS5.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS3.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS4.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS1.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_CONFIRMATION_DETAILS2.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_RESERVE A ROOM.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_ROOM BOOKED.php",
+		"/C/xampp/htdocs/orig reserve a room.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_REQUEST FOR RESERVATION SUBMITTED.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CONF_LOG OUT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_LOG OUT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_AO_LOG OUT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_RESERVE A ROOM.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CODE SENT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_RESEND CODE.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CREATE AN ACCOUNT PASSWORD_FACULTY.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CREATE AN ACCOUNT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CREATE AN ACCOUNT PASSWORD_STUDENT.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_TEACHERS_APPROVAL.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_CREATE NEW PASSWORD.php",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_FORGOT PASSWORD.php",
+		"/C/xampp/htdocs/mrs-iii/trial my acct",
+		"/C/xampp/htdocs/mrs-iii/MCHS_III_GROUP 2_AO RESERVATION_HOME.php",
+		"/C/Users/Ysabelle/Desktop/MRS/MCHS_III_GROUP 2_AO RESERVATION_SETTER.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"popup",
+			"function popup",
+			"popup",
+			"li a",
+			"img",
+			"li a",
+			"approval",
+			"instructions",
+			"how to use",
+			"instructions",
+			"form",
+			"form container",
+			"form containr",
+			"form",
+			"sidebar",
+			"grey box",
+			"form",
+			"white",
+			"margin",
+			"white",
+			"reservation-box",
+			"venue",
+			"teacher",
+			"nav",
+			"li a",
+			"search",
+			"faculty",
+			"conf",
+			"acknow",
+			"ack",
+			"square",
+			"filter-box",
+			"student's",
+			"acknowledge",
+			"button",
+			"backButton",
+			"button",
+			"li a",
+			"faculty",
+			"nav",
+			"scroll",
+			"calendar",
+			"grey",
+			"month",
+			"height",
+			"month",
+			"monthLeft",
+			"month",
+			"other venues",
+			"volleyball",
+			"outdoor venues",
+			"viewing room",
+			"viewing room 3",
+			"color",
+			"];\n",
+			"dropdown",
+			"dropdown\\",
+			"dropdown",
+			"reservations",
+			"calendar",
+			"VR 1",
+			"6",
+			"populateCalendar",
+			"filters",
+			"populate",
+			"))",
+			"function formatTime(startTime, endTime)",
+			"function formatTime(startTime, endTime) {",
+			"function formatTime(startTime, endTime)) {",
+			"button",
+			"border",
+			"endTime",
+			"subsubmenu",
+			"const",
+			"click",
+			"red",
+			"sports",
+			"VR",
+			"profile-pic",
+			"img",
+			"detail-text",
+			"profile-label",
+			"profile-section",
+			"profile-box",
+			"backButton",
+			"profile",
+			"reason",
+			"conf",
+			"else",
+			"pop",
+			"reason",
+			"reason button",
+			"text",
+			"text\\",
+			"text",
+			"conf",
+			"reason",
+			"label",
+			"reason",
+			"shadow",
+			"declineButton",
+			"confButton",
+			"reason",
+			"profile",
+			"column",
+			"profile",
+			"filter-box",
+			"profile-box",
+			"profile-info-row",
+			"profile-box",
+			"confButton",
+			"conf",
+			"profile box",
+			"column",
+			"profile-box",
+			"profile-container\\",
+			"profile-container",
+			"conf",
+			"height",
+			"profile-box",
+			"profile-section",
+			"profile-text",
+			"profile",
+			"detail-text",
+			"profile-pic",
+			"profile pic",
+			"detail-text",
+			"line"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\mrs-iii"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MCHS_III_GROUP 2_AO RESERVATION_RESERVE A ROOM.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17481,
+								34210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 257.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
